@@ -1,7 +1,6 @@
 import os
 import sys
 from github import Github as gUser
-from time import sleep
 
 folderName = str(sys.argv[1])
 projectName = str(sys.argv[2])
